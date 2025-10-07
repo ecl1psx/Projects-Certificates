@@ -25,6 +25,11 @@ Sports Events Booking Website
 2. Імпортувати базу даних з файлу sports_db.sql у phpMyAdmin.
 3. Відкрити сайт у браузері: http://localhost/index.html
 
-Автор: Артем Шемякін
+Автор: 
+
+Артем Шемякін
+Frontend Developer
+fnascits.tm@gmail.com
+https://github.com/ecl1psx
 
 Цей проєкт створений для навчальних цілей. Усі права належать автору.
