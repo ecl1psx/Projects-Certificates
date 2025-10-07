@@ -27,9 +27,9 @@ Sports Events Booking Website
 
 Автор: 
 
-Артем Шемякін
-Frontend Developer
-fnascits.tm@gmail.com
+Артем Шемякін  
+Frontend Developer  
+fnascits.tm@gmail.com  
 https://github.com/ecl1psx
 
 Цей проєкт створений для навчальних цілей. Усі права належать автору.
