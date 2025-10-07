@@ -1,2 +1,2 @@
 # Projects-Certificates
-My educational projects and certificates
+Мої освітні проєкти та сертифікати
