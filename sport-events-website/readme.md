@@ -33,9 +33,11 @@
 
 ---
 
-## Автор -- Артем Шемякін  
+## Автор
+
+**Артем Шемякін**
 Frontend Developer  
-fnascits.tm@gmail.com  
-https://github.com/ecl1psx
+[fnascits.tm@gmail.com](mailto:fnascits.tm@gmail.com)  
+[GitHub](https://github.com/ecl1psx)
 
 **Цей проєкт створений для навчальних цілей**. **Усі права належать автору**.
