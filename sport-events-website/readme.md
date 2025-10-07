@@ -21,9 +21,9 @@ Sports Events Booking Website
 
 Як запустити проєкт локально:
 
-1. Відкрити проєкт у локальному сервері (наприклад, XAMPP).
-2. Імпортувати базу даних з файлу sports_db.sql у phpMyAdmin.
-3. Відкрити сайт у браузері: http://localhost/index.html
+1) Відкрити проєкт у локальному сервері (наприклад, XAMPP).
+2) Імпортувати базу даних з файлу sports_db.sql у phpMyAdmin.
+3) Відкрити сайт у браузері: http://localhost/index.html
 
 Автор: 
 
