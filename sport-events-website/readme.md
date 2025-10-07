@@ -35,7 +35,7 @@
 
 ## Автор: 
 
-# Артем Шемякін  
+## Артем Шемякін  
 Frontend Developer  
 fnascits.tm@gmail.com  
 https://github.com/ecl1psx
