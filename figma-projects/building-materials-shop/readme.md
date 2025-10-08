@@ -4,7 +4,6 @@
 - [Завантажити .fig файл](MobileApp.fig)
 
 ### Прев’ю
-![Екран входу](preview/login.png)
 ![Головна сторінка](preview/home.png)
 
 ---
